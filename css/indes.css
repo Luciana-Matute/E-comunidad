@@ -1,0 +1,126 @@
+body, html{
+	width: 100%;
+	height: 100%;
+}
+.logo{
+	background: url("../img/ecomunidad-logo.png");
+	height: 110px;
+	background-size: 100%;
+}
+/*Navegadores*/
+a{
+	text-decoration: none;
+}
+.fondo-semilla{
+	background: url("../img/semilla.jpg") center;
+	height: 50%;
+	background-size: 100%;
+}
+/*Metodologia*/
+.expositor{
+	background: url("../img/metodo.jpg");
+	height: 400px;
+	background-size: 100%;
+}
+.fondo-metodologia{
+	background: url("../img/fondo.jpg");
+	height: 400px;
+	background-size: 100%;
+}
+.inpad{
+	padding: 0px !important;
+}
+.inmargin{
+	margin: 0px !important;
+}
+/*Proyectos*/
+.foto-proyecto-1{
+	background: url("../img/fotos/img-0352.jpg")no-repeat;
+	height: 280px;
+	background-size: 100%;
+}
+.foto-proyecto-2{
+	background: url("../img/fotos/img-9246.jpg")no-repeat;
+	height: 280px;
+	background-size: 100%;
+}
+/*Equipo*/
+.foto{
+	border-radius: 100%;
+}
+.icono{
+	width: 30px;
+	height: 30px;
+}
+.redes{
+	padding: 1%;
+}
+/*Blog*/
+.fondo-blog{
+	background: url("../img/fondo2.jpg");
+	height: 70%;
+	background-repeat: 100%;
+}
+.foto-ninos{
+	background: url("../img/fotos/img-0400.jpg") no-repeat;
+	height: 200px;
+	background-size: 100%;
+}
+.foto-carritos{
+	background: url("../img/fotos/img-9246.jpg")no-repeat;
+	height: 200px;
+	background-size: 100%;
+}
+.foto-ninos2{
+	background: url("../img/fotos/img-0400.jpg")no-repeat;
+	height: 200px;
+	background-size: 100%;
+}
+.flecha1{
+	display: inline-block;
+	margin:-114px;
+}
+.flecha2{
+	display: inline-block;
+	margin: 108px;
+	padding-left: 261px;
+}
+/*Redes Sociales*/
+.box{
+	padding: 4.3%;
+}
+.redes .col-3{
+	border: 1px solid white;
+	width: 300px;
+	height: 260px;
+}
+.icon{
+	width: 30px;
+	height: 30px;
+	margin-top: 144px;
+	margin-left: 106px;
+}
+.bg-black{
+	height: 400px;
+	padding: 0px;
+}
+.redes .col-3 {
+  transition: background-color 2s ease;
+  background-color: #4D4D4D;
+}
+.redes .col-3:hover {
+  background-color: #5C9D55;
+}
+.redes a:hover{
+	background-color: #4D4D4D;
+}
+/*pie de pagina*/
+.lab{
+	float: left;
+}
+.ecomunidad{
+	float: right;
+}
+span{
+	color: orange;
+}
